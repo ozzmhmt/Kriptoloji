@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="tarihceTabControl.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Kriptoloji insanlığın yaradılışından bu yana çeşitli evreler geçirerek günümüze ulaşmıştır. Kökü 4000 yıl öncesine dayanan  en eski teknik çalışmalardan birisidir.
+Kriptolojinin tarihçesi şu şekildedir:
+
+ MÖ 1900 : Mısırlılar yazdığı kitabelerde standart dışı hiyeroglifler kullanmıştır. Bu kitabeler bilinen ilk yazılı kriptografik belgelerdir.
+ MÖ 1500 : Mezopotamyada, kriptografi konusunda modern seviyeye yaklaşan bir anlayış sergilenmiştir. Kriptografinin kayıtlara geçmiş ilk kullanımı M.Ö. 1500 yılında sır niteliğindeki bir formülün şifrelenmesi ile olmuştur.
+ MÖ. 590 : Jeremiah’ın kitabında yer alan İbranice yazılarda Atbash olarak da bilinen ve ters alfabe kullanılmasıyla gerçekleştirilen basit yerine koyma şifresi kullanılmıştır. Atbash o yıllarda kullanılan İbranice şifrelemelerden biridir.
+ MÖ. 487 : Yunanlı Spartalılar ilk askeri kriptografi şeklini bulmuşlardır. Askerler, etrafına şerit şeklinde deri ya da parşömen sarılabilen ve Skytale  adı verilen tahta bir çubuğu kullanmışlardır.
+ MÖ. 300 : Artha-sastra Kautilya tarafından yazılmış bir kitaptır. Hindistan’da yazılmıştır.Bu kitap istihbarat bilgilerine ulaşılmasını sağlayan kodların kırılması anlamına gelen  çeşitli kriptanaliz metotlarını tavsiye eder. 
+ MÖ. 100-44 : JuliaCeasar ‘Sezar şifrelemesi’ olarak anılan ve metindeki her harfin alfabede kendisinden 3 harf kaydırılmasıyla (ötelenmesiyle) oluşturduğu şifreleme metodunu devlet haberleşmesinde kullanmıştır.
+ 725- 790 : İlk Arap sözlüğünün de yaratıcısı da olan Abu Abd al-Rahman, Bizans imparatoru için Yunanca yazılmış bir şifreli metni nasıl çözdüğü üzerine bir kitap yazmıştır (Bu kitap kayıp durumdadır).
+ 1000-1200 : Gaznelilerden günümüze kalan bazı dokumanlarda şifreli metinlere rastlanmıştır.
+1586 : Blaise de Vigenere şifreleme üzerine bir kitap yazdı. İlk kez bu kitapta açık metin ve şifreli metin için otomatik anahtarlama yönteminden bahsedildi. Günümüzde bu yöntem hala DES, CBC ve CFB kiplerinde kullanılmaktadır.
+1790 : Pensilvanya Üniversitesi’nde matematikçi olan Thomas Jefferson wheel (tekerlek) şifresini icat etti. Bu durum M-138-A Strip Cipher makinesini gelişmesine yol açtı. 2.Dünya savaşında ABD donanması M-138-A Strip Cipher makinesini kullandı.
+1854 : Charles Wheatstone arkadaşı Lyon Playfair’in adını koyduğu playfair şifresini bulmuştur.
+1861 : Friedrich W. Kasiski, tekrar eden harf gruplarını kullanan çok alfabeli şifrenin ilk genel çözümünü veren bir kitap yayınladı. Böylelikle yıllarca güçlü kabul edilen çok alfabeli şifre artık zayıf olarak kabul edilmiştir.
+1914 : 1. Dünya savaşı başladı. Güçlü bir askeri kriptografisi kullanılmıştır. İngilizler haberleşme esnasında mesajlarını kriptografik araçlar kullanarak gerçekleştirmişlerdir. Fransızlar ise kelimeleri ifade eden 4 basamaklı sayılar kullanmışlardır.
+1919 : Joseph Mauborgne ve Gilbert Vernam  mükemmel şifreleme sistemi olan “one-time pad” i buldular.
+1920-1930 : William Frederick Friedman, Riverbank Laboratuarlarını kurdu, ABD için kriptoanaliz yaptı, 2. Dünya savaşında Japonlar’ın Purple Machine şifreleme sistemini çözdü.
+1923 : Arthur Scherbius Enigma makinasını icat etti. Alman hükümeti bu makineyi devralıp geliştirdi ve 2. Dünya savaşında askeri haberleşmeleri şifrelemek için kullandı. Bu makina Alan Turing ve ekibi tarafından çözüldü.
+1933 : Japonlar mesajları şifrelemek için Purple makinasını icat ettiler. Bu makine alfabedeki harflerin yerini değiştirmek için rotorları kullanmıştır.
+1952 : 4.11.1952 ABD’de Resmi olarak Ulusal Güvenlik Teşkilatı (NSA) kuruldu.
+1970 : Horst Feistel (IBM) DES’in temelini oluşturan Lucifer algoritmasını geliştirdi.
+1976 : Açık Anahtarlı Kriptografi doğdu. Whitfield Diffie ve Martin Hellman açık anahtarlı kriptografiyi anlatan New Direction in Crytography (Kriptografi’de Yeni Yönler ) kitabını yayınladı.
+1976 : DES (Data Encryption Standard), ABD tarafından FIPS 46 (Federal Information Processing Satndard) standardı olarak açıklandı.
+1978 : Ronald L. Rivest, Adi Shamir ve Leonard M. Adleman: RSA Algoritmasını buldular.
+1985 : Neal Koblitz ve Victor S. Miller ayrı yaptıkları çalışmalarda eliptik eğri kriptografik (ECC) sistemlerini tarif ettiler.
+1990 : Xuejia Lai ve James Massey: IDEA algoritmasını buldular.
+1991 : Phil Zimmerman: PGP sistemini geliştirdi ve yayınladı.
+1995 : SHA-1(Secure Hash Algorithm) özet algoritması NIST tarafından standart olarak yayınlandı.
+1997 : ABD’nin NIST (National Institute of Standards and Technology) kurumu DES’in yerini alacak bir simetrik algoritma için yarışma açtı.
+2001 : NIST’in yarışmasını kazanan Belçikalı Joan Daemen ve Vincent Rijmen’e ait Rijndael algoritması, AES (Advanced Encryption Standard) adıyla standard haline getirildi.</value>
+  </data>
+</root>
